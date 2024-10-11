@@ -132,7 +132,10 @@
     border-color:var(--colorone) !important;
 }
 
-
+.bg-custom{
+  background-color: var(--colorone);
+  color: white !important;
+}
 
 
 
