@@ -1,6 +1,6 @@
-$('#imageCarousel').carousel({
-  interval: 2000 // Change slide every 3 seconds
-});
+   $('#imageCarousel').carousel({
+        interval: 2000 // Change slide every 2 seconds
+    });
 function toggleCustomInput(selectElement, containerId, inputId) {
   const container = document.getElementById(containerId);
   const input = document.getElementById(inputId);
